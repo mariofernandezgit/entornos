@@ -7,7 +7,8 @@ package maestredam;
 
 /**
  *
- * @author CHOLY
+ * @author Mario
+ * @version 1.0
  */
 public class Hexagono extends PoligonosRegulares {
 
