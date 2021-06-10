@@ -25,6 +25,7 @@ public class Main {
             System.out.println(array[i].obtenerPerimetro());
             System.out.println(array[i].superficie());
         }
+        Hexagono hex = new Hexagono ();
     }
     
 }
